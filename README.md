@@ -21,6 +21,13 @@ CS Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rajofearth"><img src="https://github-readme-stats.vercel.app/api?username=rajofearth&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rajofearth's GitHub stats" /></a>
+### 🎯 GitHub Stats
+<p align="left" style="text-decoration: none;">
+  <a href="http://www.github.com/rajofearth" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajofearth&show_icons=true&hide=contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=true" alt="rajofearth's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/rajofearth" style="text-decoration: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajofearth&stroke=ffffff&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
 
-<a href="http://www.github.com/rajofearth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajofearth&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
