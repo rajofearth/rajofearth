@@ -35,17 +35,6 @@ I'm a passionate CS Student with a strong foundation in web development and data
   <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajofearth&show_icons=true&count_private=true&hide=issues&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajofearth&theme=dark" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajofearth&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
 ## 🤝 Connect with Me
 
 <p align="center">
