@@ -54,7 +54,3 @@ I'm a passionate CS Student with a strong foundation in web development and data
 </div>
 
 ---
-
-<div align="center">
-  <i>⭐️ From [Yashraj Maher](https://github.com/rajofearth)</i>
-</div>
