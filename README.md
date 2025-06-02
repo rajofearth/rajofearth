@@ -6,8 +6,8 @@
 
 I'm a passionate CS Student with a strong foundation in web development and database management. My expertise includes:
 
-* 🚀 Building modern web applications with React.js and Vite
-* 📊 Database design and management using SQL
+* 🚀 Building modern web applications
+* 📊 Database design and management 
 * 📝 Documentation and content creation with Markdown
 * 🐚 Automation and scripting with shell scripts
 * 🌱 Continuously learning and exploring new technologies in Web Development, App Development, and AI
