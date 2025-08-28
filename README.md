@@ -7,24 +7,24 @@
 I'm a passionate CS Student with a strong foundation in web development and database management. My expertise includes:
 
 * 🚀 Building modern web applications
-* 📊 Database design and management 
+* 🤖 Developing AI-powered applications and tools
+* 📊 Database design and management with SQL and Prisma ORM
 * 📝 Documentation and content creation with Markdown
 * 🐚 Automation and scripting with shell scripts
 * 🌱 Continuously learning and exploring new technologies in Web Development, App Development, and AI
 * 🎓 Currently pursuing a degree in Computer Science
 * 📫 Reach me at: [rajofearth@proton.me](mailto:rajofearth@proton.me)
-* 🌐 Portfolio: [Coming Soon](#)
+* 🌐 Personal Website: [yashrajmaher.vercel.app](https://yashrajmaher.vercel.app)
 
 ## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -36,6 +36,43 @@ I'm a passionate CS Student with a strong foundation in web development and data
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🔐 [Sunx](https://github.com/rajofearth/sunx) - Authentication Template
+> A modern, production-ready authentication template built with Next.js, Better Auth, Prisma ORM, and shadcn/ui components.
+- **Tech Stack:** TypeScript, Next.js, Better Auth, Prisma, PostgreSQL
+- **Features:** Complete auth system, database integration, modern UI
+
+### 📝 [Yotes](https://github.com/rajofearth/yotes) - Privacy-First Notes App
+> Yotes - A privacy-first notes app that encrypts your notes & stores and manages your notes, docs, and resources—without any subscriptions and it backs up your data to your gdrive. Built with React and Tailwind CSS, Yotes aims to be your all-in-one hub with AI features and file support on the horizon.
+- **Tech Stack:** React, Tailwind CSS, Convex, Supabase Auth, Google Gemini AI
+- **Live Demo:** [yotes.vercel.app](https://yotes.vercel.app)
+- **Features:** End-to-end encryption, real-time sync, AI-powered search summaries, tagging system, offline access, PWA support
+
+### 🤖 [RestoreAI](https://github.com/rajofearth/restoreai) - AI-Powered Image Restoration
+> An AI-powered image restoration and editing web application that allows users to restore old/damaged photos with AI-powered editing and before/after comparison.
+- **Tech Stack:** TypeScript, Next.js, AI/ML
+- **Live Demo:** [restoreai.vercel.app](https://restoreai.vercel.app/)
+- **Features:** Image restoration, AI editing, before/after comparison
+
+### 📚 [Study Notes Hub](https://github.com/rajofearth/study-notes-hub) - Educational Platform
+> A user-friendly platform offering quick access to study materials with embedded PDF viewing and easy downloads.
+- **Tech Stack:** JavaScript, HTML, CSS, Tailwind CSS
+- **Live Demo:** [study-notes-hub.vercel.app](https://study-notes-hub.vercel.app/)
+- **Features:** PDF viewer, responsive design, study materials management
+
+### 🎵 [YPlayer](https://github.com/rajofearth/yplayer) - Web Music Player
+> A sleek, responsive web-based music player that lets users upload, manage, and enjoy their music files with automatic playback and dynamic album art.
+- **Tech Stack:** JavaScript, HTML, CSS
+- **Live Demo:** [rajofearth.github.io/yplayer](https://rajofearth.github.io/yplayer/)
+- **Features:** File upload, automatic playback, responsive design
+
+### 🌐 [Personal Website](https://github.com/rajofearth/yashrajmaher) - Personal Blog
+> Personal website showcasing projects and thoughts, built with modern web technologies.
+- **Tech Stack:** Next.js, Convex, shadcn/ui
+- **Live Demo:** [yashrajmaher.vercel.app](https://yashrajmaher.vercel.app)
+- **Features:** Project showcase, blog, modern design
 
 ## 🤝 Connect with Me
 
@@ -56,3 +93,7 @@ I'm a passionate CS Student with a strong foundation in web development and data
 </div>
 
 ---
+
+<div align="center">
+  <p>⭐ Star this repository if you found it helpful!</p>
+</div>
