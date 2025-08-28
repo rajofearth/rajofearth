@@ -6,7 +6,7 @@
 
 I'm a passionate CS Student with a strong foundation in web development and database management. My expertise includes:
 
-* 🚀 Building modern web applications with React, Next.js, and TypeScript
+* 🚀 Building modern web applications
 * 🤖 Developing AI-powered applications and tools
 * 📊 Database design and management with SQL and Prisma ORM
 * 📝 Documentation and content creation with Markdown
@@ -14,7 +14,7 @@ I'm a passionate CS Student with a strong foundation in web development and data
 * 🌱 Continuously learning and exploring new technologies in Web Development, App Development, and AI
 * 🎓 Currently pursuing a degree in Computer Science
 * 📫 Reach me at: [rajofearth@proton.me](mailto:rajofearth@proton.me)
-* 🌐 Portfolio: [yashrajmaher.vercel.app](https://yashrajmaher.vercel.app)
+* 🌐 Personal Website: [yashrajmaher.vercel.app](https://yashrajmaher.vercel.app)
 
 ## 🛠️ Skills
 
@@ -39,6 +39,17 @@ I'm a passionate CS Student with a strong foundation in web development and data
 
 ## 🚀 Featured Projects
 
+### 🔐 [Sunx](https://github.com/rajofearth/sunx) - Authentication Template
+> A modern, production-ready authentication template built with Next.js, Better Auth, Prisma ORM, and shadcn/ui components.
+- **Tech Stack:** TypeScript, Next.js, Better Auth, Prisma, PostgreSQL
+- **Features:** Complete auth system, database integration, modern UI
+
+### 📝 [Yotes](https://github.com/rajofearth/yotes) - Privacy-First Notes App
+> A privacy-first notes app that integrates with Google Drive to store and manage notes, docs, and resources—no subscriptions, just your own storage.
+- **Tech Stack:** React, Tailwind CSS, Google Drive API, Supabase
+- **Live Demo:** [yotes.vercel.app](https://yotes.vercel.app)
+- **Features:** Google Drive integration, privacy-focused, AI features planned
+
 ### 🤖 [RestoreAI](https://github.com/rajofearth/restoreai) - AI-Powered Image Restoration
 > An AI-powered image restoration and editing web application that allows users to restore old/damaged photos with AI-powered editing and before/after comparison.
 - **Tech Stack:** TypeScript, Next.js, AI/ML
@@ -51,39 +62,17 @@ I'm a passionate CS Student with a strong foundation in web development and data
 - **Live Demo:** [study-notes-hub.vercel.app](https://study-notes-hub.vercel.app/)
 - **Features:** PDF viewer, responsive design, study materials management
 
-### 🔐 [Sunx](https://github.com/rajofearth/sunx) - Authentication Template
-> A modern, production-ready authentication template built with Next.js, Better Auth, Prisma ORM, and shadcn/ui components.
-- **Tech Stack:** TypeScript, Next.js, Better Auth, Prisma, PostgreSQL
-- **Features:** Complete auth system, database integration, modern UI
-
-### 📝 [Yotes](https://github.com/rajofearth/yotes) - Privacy-First Notes App
-> A privacy-first notes app that integrates with Google Drive to store and manage notes, docs, and resources—no subscriptions, just your own storage.
-- **Tech Stack:** React, Tailwind CSS, Google Drive API, Supabase
-- **Live Demo:** [yotes.vercel.app](https://yotes.vercel.app)
-- **Features:** Google Drive integration, privacy-focused, AI features planned
-
 ### 🎵 [YPlayer](https://github.com/rajofearth/yplayer) - Web Music Player
 > A sleek, responsive web-based music player that lets users upload, manage, and enjoy their music files with automatic playback and dynamic album art.
 - **Tech Stack:** JavaScript, HTML, CSS
 - **Live Demo:** [rajofearth.github.io/yplayer](https://rajofearth.github.io/yplayer/)
 - **Features:** File upload, automatic playback, responsive design
 
-### 🌐 [Personal Website](https://github.com/rajofearth/yashrajmaher) - Portfolio
+### 🌐 [Personal Website](https://github.com/rajofearth/yashrajmaher) - Personal Blog
 > Personal website showcasing projects and thoughts, built with modern web technologies.
 - **Tech Stack:** Next.js, Convex, shadcn/ui
 - **Live Demo:** [yashrajmaher.vercel.app](https://yashrajmaher.vercel.app)
 - **Features:** Project showcase, blog, modern design
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajofearth&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajofearth&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajofearth&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## 🤝 Connect with Me
 
