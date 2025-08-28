@@ -27,6 +27,7 @@ I'm a passionate CS Student with a strong foundation in web development and data
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -62,11 +63,11 @@ I'm a passionate CS Student with a strong foundation in web development and data
 - **Live Demo:** [study-notes-hub.vercel.app](https://study-notes-hub.vercel.app/)
 - **Features:** PDF viewer, responsive design, study materials management
 
-### 🎵 [YPlayer](https://github.com/rajofearth/yplayer) - Web Music Player
-> A sleek, responsive web-based music player that lets users upload, manage, and enjoy their music files with automatic playback and dynamic album art.
-- **Tech Stack:** JavaScript, HTML, CSS
-- **Live Demo:** [rajofearth.github.io/yplayer](https://rajofearth.github.io/yplayer/)
-- **Features:** File upload, automatic playback, responsive design
+### 🎬 [Entros](https://github.com/rajofearth/entros) - Movie & TV Show Discovery Platform
+> A sleek, responsive React web app that lets you explore movies, TV shows, and other entertainment content. Powered by The Movie Database (TMDb) API, it offers trending listings, multi‑type search, and in‑depth details for titles, actors, and collections.
+- **Tech Stack:** React, Vite, Tailwind CSS, TMDb API
+- **Live Demo:** [entros.vercel.app](https://entros.vercel.app/)
+- **Features:** Advanced search, detailed information, genre filtering, trending content, responsive design, modern UI
 
 ### 🌐 [Personal Website](https://github.com/rajofearth/yashrajmaher) - Personal Blog
 > Personal website showcasing projects and thoughts, built with modern web technologies.
