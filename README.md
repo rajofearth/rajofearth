@@ -45,10 +45,10 @@ I'm a passionate CS Student with a strong foundation in web development and data
 - **Features:** Complete auth system, database integration, modern UI
 
 ### 📝 [Yotes](https://github.com/rajofearth/yotes) - Privacy-First Notes App
-> Yotes - A privacy-first notes app that integrates with Google Drive to store and manage your notes, docs, and resources—no subscriptions, just your own storage. Built with React and Tailwind CSS, Yotes aims to be your all-in-one hub with AI features and file support on the horizon.
-- **Tech Stack:** React, Tailwind CSS, Google Drive API, Supabase
+> Yotes - A privacy-first notes app that encrypts your notes & stores and manages your notes, docs, and resources—without any subscriptions and it backs up your data to your gdrive. Built with React and Tailwind CSS, Yotes aims to be your all-in-one hub with AI features and file support on the horizon.
+- **Tech Stack:** React, Tailwind CSS, Convex, Supabase Auth, Google Gemini AI
 - **Live Demo:** [yotes.vercel.app](https://yotes.vercel.app)
-- **Features:** Google Drive integration, privacy-focused, AI features and file support planned
+- **Features:** End-to-end encryption, real-time sync, AI-powered search summaries, tagging system, offline access, PWA support
 
 ### 🤖 [RestoreAI](https://github.com/rajofearth/restoreai) - AI-Powered Image Restoration
 > An AI-powered image restoration and editing web application that allows users to restore old/damaged photos with AI-powered editing and before/after comparison.
