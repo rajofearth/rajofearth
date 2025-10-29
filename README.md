@@ -57,11 +57,11 @@ I'm a passionate CS Student with a strong foundation in web development and data
 - **Live Demo:** [restoreai.vercel.app](https://restoreai.vercel.app/)
 - **Features:** Image restoration, AI editing, before/after comparison
 
-### 📚 [Study Notes Hub](https://github.com/rajofearth/study-notes-hub) - Educational Platform
+### 📚 [Study Notes Hub](https://snhbackend.vercel.app) - Educational Platform
 > A user-friendly platform offering quick access to study materials with embedded PDF viewing and easy downloads.
-- **Tech Stack:** JavaScript, HTML, CSS, Tailwind CSS
-- **Live Demo:** [study-notes-hub.vercel.app](https://study-notes-hub.vercel.app/)
-- **Features:** PDF viewer, responsive design, study materials management
+- **Tech Stack:** Nextjs, Prisma ORM, Postgresql NeonDB, Dodopayments, Betterauth
+- **Live Demo:** [snhbackend.vercel.app](https://snhbackend.vercel.app/)
+- **Features:** PDF viewer, responsive design, Smooth Payments Setup.
 
 ### 🎬 [Entros](https://github.com/rajofearth/entros) - Movie & TV Show Discovery Platform
 > A sleek, responsive React web app that lets you explore movies, TV shows, and other entertainment content. Powered by The Movie Database (TMDb) API, it offers trending listings, multi‑type search, and in‑depth details for titles, actors, and collections.
