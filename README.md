@@ -58,7 +58,7 @@ I'm a passionate CS Student with a strong foundation in web development and data
 - **Features:** Image restoration, AI editing, before/after comparison
 
 ### 📚 [Study Notes Hub](https://snhbackend.vercel.app) - Educational Platform
-> A user-friendly platform offering quick access to study materials with embedded PDF viewing and easy downloads.
+> A user-friendly platform offering quick access to study materials with embedded PDF viewing.
 - **Tech Stack:** Nextjs, Prisma ORM, Postgresql NeonDB, Dodopayments, Betterauth
 - **Live Demo:** [snhbackend.vercel.app](https://snhbackend.vercel.app/)
 - **Features:** PDF viewer, responsive design, Smooth Payments Setup.
