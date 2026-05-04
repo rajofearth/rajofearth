@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Yashraj+Maher;Welcome+to+my+GitHub+Profile!&center=true&width=380&height=50">
-</div>
-
 ## 👨‍💻 About Me
 
 I'm a passionate CS Student with a strong foundation in web development and database management. My expertise includes:
