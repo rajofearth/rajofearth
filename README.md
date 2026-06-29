@@ -1,61 +1,86 @@
-## 👨‍💻 About Me
+# Yashraj Maher
 
-I'm a passionate CS Student with a strong foundation in web development and database management. My expertise includes:
+A student who has built websites, apps, and AI models -- looking forward to building something that truly matters.
 
-* 🚀 Building modern web applications
-* 🤖 Developing AI-powered applications and tools
-* 📊 Database design and management with SQL and Prisma ORM
-* 📝 Documentation and content creation with Markdown
-* 🐚 Automation and scripting with shell scripts
-* 🌱 Continuously learning and exploring new technologies in Web Development, App Development, and AI
-* 🎓 Currently pursuing a degree in Computer Science
-* 📫 Reach me at: [rajofearth@proton.me](mailto:rajofearth@proton.me)
-* 🌐 Personal Website: [yashrajmaher.vercel.app](https://yashrajmaher.vercel.app)
+_Discipline drives me. Design defines me. Humanity guides me._
 
-## 🛠️ Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
-</p>
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/rajofearth" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="http://www.instagram.com/yashraj.maher" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.x.com/yashrajmaher" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajofearth&style=flat-square&color=blue" alt="Profile views" />
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat&logo=github&logoColor=white)](https://github.com/rajofearth)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-1a1a1a?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/rajofearth)
+[![Website](https://img.shields.io/badge/Website-1a1a1a?style=flat&logo=vercel&logoColor=white)](https://yashrajmaher.com)
+[![X](https://img.shields.io/badge/X-1a1a1a?style=flat&logo=x&logoColor=white)](https://x.com/yashrajmaher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashrajmaher)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yashraj.maher)
 
 ---
 
-<div align="center">
-  <p>⭐ Star this repository if you found it helpful!</p>
-</div>
+### Core Stack
+
+Technologies I reach for first across projects.
+
+**Languages** -- TypeScript, JavaScript, Python  
+**Frontend** -- Next.js, Tailwind CSS, Shadcn  
+**Backend / DB** -- Convex, Supabase, Prisma ORM, Better Auth, SQLite  
+**AI / Vision** -- ONNX Runtime (WebGPU), YOLO, llama-cpp 
+**Mobile** -- React Native
+**Desktop** -- Electron
+
+### Experience
+
+Shipped projects with these across web, mobile, desktop, and ML.
+
+**Frontend** -- Astro, Vite, GSAP, Framer Motion, Shadcn/ui, Radix UI 
+**Mobile** -- React Native  
+**Backend** -- Node.js, Flask, Clerk  
+**AI / ML** -- Cerebras Cloud SDK, Google Gemini, Unsloth, Transformers.js, llama-cpp  
+**Desktop** -- Bun (webview), Win32 API, Direct3D 11  
+**Languages** -- Java, C, C++, Solidity, Elixir, Shell  
+**Infra** -- Docker, Vercel, Cloudflare, Modal, GitHub Actions  
+**Tools** -- Linux, Git, Biome, Figma, Framer, pnpm
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Eve's Eye](https://github.com/rajofearth/eves-eye) | Real-time AI security monitoring. Gemma 4 31B on Cerebras Cloud for threat detection. Built at the Cerebras x DeepMind hackathon. | Next.js 16, Cerebras SDK, SQLite |
+| [camx2](https://github.com/rajofearth/camx2) | Local-first AI surveillance system. ONNX + WebGPU, no cloud dependency. Multi-camera detection, VLM threat verification, video Q&A pipeline. | Next.js, ONNX Runtime, WebGPU |
+| [muxics](https://github.com/rajofearth/muxics) | Winamp-inspired cross-platform desktop music player and unofficial YouTube client. 5 releases across macOS, Windows, Linux. | Electron, React, Vite |
+| [bukmarks](https://github.com/rajofearth/bukmarks) | Bookmark dashboard that imports Chromium bookmarks into a clean, searchable, animated interface. Browser extensions for Chrome and Firefox. | Next.js, Convex, Better Auth, GSAP |
+| [yotes](https://github.com/rajofearth/yotes) | Privacy-first notes app. Client-side AES-GCM encryption, real-time sync, PWA, AI-powered search summaries via Gemini. | React, Convex, Gemini |
+| [patchcore_service](https://github.com/rajofearth/patchcore_service) | Package damage detection service using PatchCore anomaly detection. Web UI and REST API with CORS. WideResNet-50-2 backbone. | Python, Flask, PyTorch |
+| [logix](https://github.com/rajofearth/logix) | Blockchain-powered logistics platform with AI price prediction, Mapbox routing, and Solidity smart contracts. Win7 aesthetic. | Next.js, Prisma, Solidity, Mapbox |
+| [avdbuddy-win](https://github.com/rajofearth/avdbuddy-win) | Desktop app for managing Android Virtual Devices without Android Studio. Guided creation wizard for all form factors. | Bun, webview, TypeScript |
+| [openenv-proj](https://github.com/rajofearth/openenv-proj) | Benchmark that evaluates AI agents on real Accounts Payable invoice processing workflows across multiple models. | Python |
+| [Your Universe](https://your-universe.vercel.app/) | A X like Social Media platform, with everything, chat, algo, research paper search, scholars search  | Next.js |
+
+---
+
+### Models
+
+Published on [Hugging Face](https://huggingface.co/rajofearth):
+
+| Model | Description | Type |
+|---|---|---|
+| [Chinchilla-1-73M](https://huggingface.co/rajofearth/Chinchilla-1-73M) | Research-scale 73.5M parameter instruction-tuned LM. Custom nanochat architecture with value embeddings, smear mechanism, backout residuals. Trained on Modal GPUs (~$1.20). | Text Generation |
+| [LFM2.5-VL-1.6B UCF Crime](https://huggingface.co/rajofearth/lfm-ucf-unsloth) ([GGUF](https://huggingface.co/rajofearth/lfm-ucf-gguf)) | Surveillance crime detection model fine-tuned on UCF Crime dataset (15 categories). LoRA adapters + GGUF quantized. +9.6% accuracy over base model. | Image-to-Text |
+| [LFM2.5-VL-400M UCF Crime](https://huggingface.co/rajofearth/lfm-2.5-VL-ucf-400M-unsloth) ([GGUF](https://huggingface.co/rajofearth/lfm-ucf-400M-gguf)) | Lightweight 400M variant of the UCF Crime detection model. LoRA adapters + GGUF quantized. Trained on free Colab T4 GPU. | Image-to-Text |
+| [inventorygemma](https://huggingface.co/rajofearth/inventorygemma) | Grocery inventory management expert, fine-tuned from Google Gemma-3-270m. Analyzes stock levels and generates restocking recommendations. | Text Generation |
+
+---
+
+### Writing
+
+[I Fine-Tuned a Vision Model for Crime Detection on a Free GPU](https://yashrajmaher.vercel.app/my-words) -- Mar 2026  
+[How I Automated My Jellyfin Music Library Cleanup with Python](https://yashrajmaher.vercel.app/my-words) -- Oct 2024  
+[Yotes: My Quest to Build a Notes App That's Actually Mine](https://yashrajmaher.vercel.app/my-words) -- Feb 2024
+
+---
+
+### Contact
+
+maheryashraj@gmail.com
+
+---
+
+[![Profile views](https://komarev.com/ghpvc/?username=rajofearth&style=flat&color=1a1a1a)](https://github.com/rajofearth)
