@@ -1,6 +1,7 @@
 # Yashraj Maher
 
-A student who has built websites, apps, and AI models -- looking forward to building something that truly matters.
+Student builder · full-stack apps · local and cloud AI.  
+Looking forward to building something that truly matters.
 
 _Discipline drives me. Design defines me. Humanity guides me._
 
@@ -10,32 +11,6 @@ _Discipline drives me. Design defines me. Humanity guides me._
 [![X](https://img.shields.io/badge/X-1a1a1a?style=flat&logo=x&logoColor=white)](https://x.com/yashrajmaher)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashrajmaher)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yashraj.maher)
-
----
-
-### Core Stack
-
-Technologies I reach for first across projects.
-
-**Languages** -- TypeScript, JavaScript, Python  
-**Frontend** -- Next.js, Tailwind CSS, Shadcn  
-**Backend / DB** -- Convex, Supabase, Prisma ORM, Better Auth, SQLite  
-**AI / Vision** -- ONNX Runtime (WebGPU), YOLO, llama-cpp 
-**Mobile** -- React Native
-**Desktop** -- Electron
-
-### Experience
-
-Shipped projects with these across web, mobile, desktop, and ML.
-
-**Frontend** -- Astro, Vite, GSAP, Framer Motion, Shadcn/ui, Radix UI 
-**Mobile** -- React Native  
-**Backend** -- Node.js, Flask, Clerk  
-**AI / ML** -- Cerebras Cloud SDK, Google Gemini, Unsloth, Transformers.js, llama-cpp  
-**Desktop** -- Bun (webview), Win32 API, Direct3D 11  
-**Languages** -- Java, C, C++, Solidity, Elixir, Shell  
-**Infra** -- Docker, Vercel, Cloudflare, Modal, GitHub Actions  
-**Tools** -- Linux, Git, Biome, Figma, Framer, pnpm
 
 ---
 
@@ -49,10 +24,8 @@ Shipped projects with these across web, mobile, desktop, and ML.
 | [bukmarks](https://github.com/rajofearth/bukmarks) | Bookmark dashboard that imports Chromium bookmarks into a clean, searchable, animated interface. Browser extensions for Chrome and Firefox. | Next.js, Convex, Better Auth, GSAP |
 | [yotes](https://github.com/rajofearth/yotes) | Privacy-first notes app. Client-side AES-GCM encryption, real-time sync, PWA, AI-powered search summaries via Gemini. | React, Convex, Gemini |
 | [patchcore_service](https://github.com/rajofearth/patchcore_service) | Package damage detection service using PatchCore anomaly detection. Web UI and REST API with CORS. WideResNet-50-2 backbone. | Python, Flask, PyTorch |
-| [logix](https://github.com/rajofearth/logix) | Blockchain-powered logistics platform with AI price prediction, Mapbox routing, and Solidity smart contracts. Win7 aesthetic. | Next.js, Prisma, Solidity, Mapbox |
 | [avdbuddy-win](https://github.com/rajofearth/avdbuddy-win) | Desktop app for managing Android Virtual Devices without Android Studio. Guided creation wizard for all form factors. | Bun, webview, TypeScript |
-| [openenv-proj](https://github.com/rajofearth/openenv-proj) | Benchmark that evaluates AI agents on real Accounts Payable invoice processing workflows across multiple models. | Python |
-| [Your Universe](https://your-universe.vercel.app/) | A X like Social Media platform, with everything, chat, algo, research paper search, scholars search  | Next.js |
+| [Your Universe](https://your-universe.vercel.app/) | An X-like social platform with chat, feed ranking, research paper search, and scholar discovery. Live demo (read-only). | Next.js |
 
 ---
 
@@ -71,9 +44,17 @@ Published on [Hugging Face](https://huggingface.co/rajofearth):
 
 ### Writing
 
-[I Fine-Tuned a Vision Model for Crime Detection on a Free GPU](https://yashrajmaher.vercel.app/my-words) -- Mar 2026  
-[How I Automated My Jellyfin Music Library Cleanup with Python](https://yashrajmaher.vercel.app/my-words) -- Oct 2024  
-[Yotes: My Quest to Build a Notes App That's Actually Mine](https://yashrajmaher.vercel.app/my-words) -- Feb 2024
+[I Fine-Tuned a Vision Model for Crime Detection on a Free GPU](https://yashrajmaher.com/my-words/lfm-ucf) — Mar 2026  
+[How I Automated My Jellyfin Music Library Cleanup with Python](https://yashrajmaher.com/my-words/automating-jellyfin-music-library-with-python) — Oct 2024  
+[Yotes: My Quest to Build a Notes App That's Actually Mine](https://yashrajmaher.com/my-words/yotes) — Feb 2024
+
+---
+
+### Stack
+
+**Daily** — TypeScript, JavaScript, Python · Next.js, Tailwind CSS, Shadcn/ui · Convex, Supabase, Prisma, Better Auth, SQLite · Electron, React Native  
+**AI** — ONNX Runtime (WebGPU), YOLO, llama-cpp, Unsloth, Transformers.js, Cerebras Cloud SDK, Google Gemini  
+**Also** — Node.js, Flask, Astro, Vite, GSAP, Framer Motion · Bun (webview), Win32 API · Java, C, C++, Solidity, Elixir, Shell · Docker, Vercel, Cloudflare, Modal, GitHub Actions · Linux, Git, Biome, Figma, pnpm
 
 ---
 
