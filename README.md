@@ -1,6 +1,5 @@
 # Yashraj Maher
 
-Student builder · full-stack apps · local and cloud AI.  
 Looking forward to building something that truly matters.
 
 _Discipline drives me. Design defines me. Humanity guides me._
@@ -20,7 +19,7 @@ _Discipline drives me. Design defines me. Humanity guides me._
 |---|---|---|
 | [Eve's Eye](https://github.com/rajofearth/eves-eye) | Real-time AI security monitoring. Gemma 4 31B on Cerebras Cloud for threat detection. Built at the Cerebras x DeepMind hackathon. | Next.js 16, Cerebras SDK, SQLite |
 | [camx2](https://github.com/rajofearth/camx2) | Local-first AI surveillance system. ONNX + WebGPU, no cloud dependency. Multi-camera detection, VLM threat verification, video Q&A pipeline. | Next.js, ONNX Runtime, WebGPU |
-| [muxics](https://github.com/rajofearth/muxics) | Winamp-inspired cross-platform desktop music player and unofficial YouTube client. 5 releases across macOS, Windows, Linux. | Electron, React, Vite |
+| [muxics](https://github.com/rajofearth/muxics) | Winamp-inspired cross-platform desktop music player and unofficial YouTube client. Works everywhere: macOS, Windows, Linux. | Electron, React, Vite |
 | [bukmarks](https://github.com/rajofearth/bukmarks) | Bookmark dashboard that imports Chromium bookmarks into a clean, searchable, animated interface. Browser extensions for Chrome and Firefox. | Next.js, Convex, Better Auth, GSAP |
 | [yotes](https://github.com/rajofearth/yotes) | Privacy-first notes app. Client-side AES-GCM encryption, real-time sync, PWA, AI-powered search summaries via Gemini. | React, Convex, Gemini |
 | [patchcore_service](https://github.com/rajofearth/patchcore_service) | Package damage detection service using PatchCore anomaly detection. Web UI and REST API with CORS. WideResNet-50-2 backbone. | Python, Flask, PyTorch |
