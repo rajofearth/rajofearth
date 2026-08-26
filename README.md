@@ -41,14 +41,6 @@ Published on [Hugging Face](https://huggingface.co/rajofearth):
 
 ---
 
-### Writing
-
-[I Fine-Tuned a Vision Model for Crime Detection on a Free GPU](https://yashrajmaher.com/my-words/lfm-ucf) — Mar 2026  
-[How I Automated My Jellyfin Music Library Cleanup with Python](https://yashrajmaher.com/my-words/automating-jellyfin-music-library-with-python) — Oct 2024  
-[Yotes: My Quest to Build a Notes App That's Actually Mine](https://yashrajmaher.com/my-words/yotes) — Feb 2024
-
----
-
 ### Stack
 
 **Daily** — TypeScript, JavaScript, Python · Next.js, Tailwind CSS, Shadcn/ui · Convex, Supabase, Prisma, Better Auth, SQLite · Electron, React Native  
